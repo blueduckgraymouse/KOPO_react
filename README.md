@@ -1,3 +1,9 @@
+# react 실습
+투표 결과 집계 화면 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
